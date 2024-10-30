@@ -1,0 +1,178 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress Brick System\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Thomas Herzog <thomas@piraten-sachsen.de>\n"
+"Language-Team: Thomas Herzog <ThomasHerzog85@gmx.at>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+
+msgid "Bricksets"
+msgstr "Baukästen"
+
+msgid "Please set a name"
+msgstr "Bitte gib einen Namen an"
+
+msgid "Brickset updated"
+msgstr "Baukasten wurde editiert"
+
+msgid "Brickset could not be updated. Code: onBricksetUpdate"
+msgstr "Baukasten konnte nicht editiert werden. Code: onBricksetUpdate"
+
+msgid "Published"
+msgstr "Veröffentlicht"
+
+msgid "Draft"
+msgstr "Entwurf"
+
+msgid "Save"
+msgstr "Speichern"
+
+msgid "Publish"
+msgstr "Publizieren"
+
+msgid "Update"
+msgstr "Aktualisieren"
+
+msgid "Save as Draft"
+msgstr "Als Entwurf speichern"
+
+msgid "Do you really want to delete the brickset?"
+msgstr "Möchten Sie wirklich den Baukasten löschen?"
+
+msgid "Do you really want to move the brick to the trash?"
+msgstr "Möchten Sie wirklich den Baustein in den Papierkorb legen?"
+
+msgid "Be careful with the deletion of a brickset! It will remove the brickset and all its content permanently!"
+msgstr "Seien Sie mit dem Löschen eines Baukastens vorsichtig. Es wird alles permanent gelöscht, auch die darin angelegten Bausteine."
+
+msgid "Add New Brickset"
+msgstr "Baukasten hinzufügen"
+
+msgid "The &#8220;slug&#8221; identifies the brickset in the page setup."
+msgstr "Der &#8220;slug&#8221; identifiziert den Baukasten in der Seite."
+
+msgid "The description is not a required value. Just give a little preview of the content of the set"
+msgstr "Die Beschreibung ist kein Pflichtfeld. Ein kurzer Anriss des Inhaltes ist jedoch hilfreich."
+
+msgid "Edit"
+msgstr "Editiere"
+
+msgid "Edit Brickset"
+msgstr "Baukasten editieren"
+
+msgid "To switch, click here"
+msgstr "Zum Umschalten hier klicken"
+
+msgid "Status:"
+msgstr "Status:"
+
+msgid "Here you are able to edit the main settings such as the slug or the name of the brickset."
+msgstr "Hier ist es möglich die Einstellungen des Baukastens zu verändern."
+
+msgid "With the slug you can place the brickset (or a single brick) into your page/template/whatever."
+msgstr "Mit dem Slug ist es möglich den Baukasten oder einen einzelnen Baustein in der Seite oder Template zu plazieren."
+
+msgid "If you change the slug, make sure that you will change the identifier in the pages."
+msgstr "Wenn der Slug geändert wird, muss sicher gestellt werden, dass der Identifizierer auf den Seiten auch geändert wird."
+
+msgid "Place a brickset with <em>[brickset \"brickset_slug\"]</em>. Place a brick width <em>[brick \"brick_slug\"]</em>."
+msgstr "Einen Baukasten kann man mit <em>[brickset \"brickset_slug\"]</em> platzieren, einen Baustein mit <em>[brick \"brick_slug\"]</em>."
+
+msgid "Alternatively use the template functions: <em>the_brickset( \"brickset_slug\" )</em> and <em>the_brick( \"brick_slug\" )</em>"
+msgstr "Alternativ können auch die Templatefunktionen genutzt werden: <em>the_brickset( \"brickset_slug\" )</em> und <em>the_brick( \"brick_slug\" )</em>"
+
+msgid "Available Bricks"
+msgstr "Verfügbare Bausteine"
+
+msgid "Add brick to set"
+msgstr "Baustein hinzufügen"
+
+msgid "Headlines"
+msgstr "Überschriften"
+
+msgid "Brick to display headlines"
+msgstr "Baustein, um Überschriften darzustellen"
+
+msgid "Headline-Type"
+msgstr "Typ der Überschrift"
+
+msgid "CSS-Class"
+msgstr "CSS-Klasse"
+
+msgid "Stylesheet"
+msgstr "Stylesheet"
+
+msgid "Simple Text"
+msgstr "Einfacher Text"
+
+msgid "Simple text brick with no rich text editing tools."
+msgstr "Einfacher Textbaustein ohne tiefgreifende Funktionen."
+
+msgid "Spacer"
+msgstr "Trenner"
+
+msgid "Brick to display a spacer"
+msgstr "Baustein, um einen Trenner dar zu stellen"
+
+msgid "Enter the full URL of the website"
+msgstr "Bitte geben Sie die komplette Adresse der Zielwebseite ein."
+
+msgid "Enter the full URL of the image location"
+msgstr "Bitte geben Sie die komplette Adresse des Bildes ein."
+
+msgid "Simple Picture"
+msgstr "Einfaches Bild"
+
+msgid "Brick to display a picture"
+msgstr "Baustein, um ein Bild dar zu stellen"
+
+msgid "Choose picture from mediathek"
+msgstr "Bild aus Mediathek wählen"
+
+msgid "Image Location"
+msgstr "Adresse des Bildes"
+
+msgid "Show Style-Box"
+msgstr "Zeige Style-Box"
+
+msgid "Description of the picture, e.g. Mona Lisa"
+msgstr "Beschreibung des Bildes, z.B. Mona Lisa"
+
+msgid "Bricksyten Brick Widget"
+msgstr "Baukasten Baustein Widget"
+
+msgid "This widget displays the brick."
+msgstr "Dieses Widget stellt einen Baustein dar."
+
+msgid "Choose Brick"
+msgstr "Wähle einen Baustein"
+
+msgid "Widget doesnot appear on this pages"
+msgstr "Widget erscheint nicht auf diesen Seiten"
+
+msgid "Widget only appears on this pages"
+msgstr "Widget erscheint nur auf diesen Seiten"
+
+msgid "Widget appears everywhere"
+msgstr "Widget erscheint überall"
+
+msgid "Page-IDs"
+msgstr "Seiten-IDs"
+
+msgid "comma sperated"
+msgstr "separiert mit Kommata"
+
+msgid "Bricksyten Brickset Widget"
+msgstr "Bricksystem Baukasten Widget"
+
+msgid "This widget displays the whole brickset."
+msgstr "Dieses Widget stellt einen kompletten Baukasten dar."
+
+msgid "Choose Brickset"
+msgstr "Wähle einen Baukasten"
+

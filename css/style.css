@@ -1,0 +1,141 @@
+/**
+ * Brick System
+ * @license CC-BY-SA-NC
+ * @package WordPress Brick System
+ * @subpackage CSS Library
+ */
+
+@CHARSET "UTF-8";
+
+.inside label {
+    float: left;
+    width: 125px;
+    margin: 4px 0 0 0;
+    font-weight: bold;
+}
+
+.brick-options {
+    background: #f6f6f6;
+    border: 1px solid #DFDFDF;
+}
+
+.inside .brick-options-wrap {
+	float: right;
+	width: 275px;
+	margin: 10px 10px -10px 0;
+}
+
+.indent {
+	margin: 5px;
+}
+
+.alignleft {
+	margin-top: 0 !important;
+}
+
+.indent label, #settings .widget-content label {
+	width: 75px;
+	float: left;
+	margin: 7px 0 0 0;
+}
+
+.indent input, #settings .widget-content input {
+    width: 175px;
+    float: left;
+}
+
+.brick-options-wrap h3 {
+	cursor: default !important;
+}
+
+#settings .widget-content label {
+	width: 75px;
+}
+
+#settings .widget-content input {
+    width: 140px;
+}
+
+.main_brick_handler .inside {
+	display: none;
+}
+
+input.error {
+	margin: 1px !important;
+	padding: 3px !important;
+    border-color: #c00 !important;
+	background-color: #ffebe8 !important;
+}
+
+.emptytrash {
+	margin: -10px 15px 5px 0;
+}
+
+.opened .inside {
+	display: block !important;
+}
+
+.in-brick_title {
+	color: #909090;
+	font-size: 11px;
+    white-space: nowrap;
+}
+
+.radio {
+	float: left;
+	margin: 5px 5px 0 0;
+}
+
+.handlediv {
+	background: url(http://localhost/wordpress/wp-admin/images/menu-bits.gif) no-repeat scroll 0 -110px;
+}
+
+.image-align {
+	padding: 0 0 0 25px;
+	width: 75px !important;
+}
+
+.full {
+	width: 100%;
+	outline: none;
+	margin: -1px 0 0 0;
+}
+
+.postarea {
+	margin-bottom: 5px !important;
+}
+
+.picture_chooser {
+	display: none;
+	border-bottom: 0;
+	max-height: 185px;
+	overflow: auto;
+}
+
+.picture_chooser_container {
+	margin:  6px 0;
+}
+
+.picture_chooser_container a {
+    padding: 5px;
+    background: #f6f6f6;
+    border: 1px solid #DFDFDF;	
+    -moz-border-radius: 6px;
+	-khtml-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	border-radius: 6px;
+	border-top-left-radius: 6px 6px;
+	border-top-right-radius: 6px 6px;
+	border-bottom-right-radius: 6px 6px;
+	border-bottom-left-radius: 6px 6px;
+}
+
+.picture_chooser_container .opened {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom: 1px solid #f6f6f6;
+}
+
+#ed_underline {
+	text-decoration: underline;
+}
